@@ -1,4 +1,7 @@
-### study-of-basic-gates
+## Study-Of-Basic-Gates
+
+### Name : THARUN SRIDHAR
+### Reg No : 212223230230
 
 **AIM:** 
 
