@@ -84,6 +84,8 @@ nor(C6,a,b);
 xnor(C7,a,b);
 endmodule
 ```
+**Logic symbols and Truthtable**
+![WhatsApp Image 2024-08-30 at 10 57 41](https://github.com/user-attachments/assets/c4bf4dc7-0ab2-4060-947e-56b5c8d06b02)
 
 **RTL realization Output:** 
 ![exno1 de](https://github.com/user-attachments/assets/8e7837b9-a4ea-4986-9c2d-019f1cd026b9)
